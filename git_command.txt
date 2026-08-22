@@ -1,0 +1,8 @@
+git init
+git status
+git add 'filename' ---> for untracked to stage
+git add . ( multiple files)
+git -- cached "file name" for staged to untracked
+git commit -m "message" for staged to tracked 
+if a file is deleted after tracking then using ( git restor "file name")
+git push origin master
