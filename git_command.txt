@@ -7,3 +7,5 @@ git commit -m "message" for staged to tracked
 if a file is deleted after tracking then using ( git restor "file name")
 git push origin master
 HELLO WORLD
+
+this is a new changes in the comammand file 
